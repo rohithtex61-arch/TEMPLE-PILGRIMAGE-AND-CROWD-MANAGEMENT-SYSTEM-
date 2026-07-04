@@ -1,2 +1,2 @@
 # TEMPLE-PILGRIMAGE-AND-CROWD-MANAGEMENT-SYSTEM-
- pilgrim flow monitoring, queue management, online booking, QR code verification, and live queue image updates to reduce waiting time and improve the overall pilgrimage experience. The system is designed using modern web technologies to provide a responsive, user-friendly, and efficient solution for both pilgrims and temple administrators.
+A smart web-based system for managing temple pilgrim flow through real-time crowd monitoring, queue management, online booking, and QR-based verification to enhance safety and improve the pilgrimage experience.
